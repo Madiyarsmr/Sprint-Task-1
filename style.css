@@ -1,0 +1,91 @@
+.navbar{
+    background-color: darkred;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    padding-left: 20px;
+}
+
+.menu{
+    padding-right: 20px;
+}
+
+.qaz{
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+body{
+    margin: 0px;
+}
+
+
+.container {
+    padding-top: 20px;
+    max-width: 1000px;
+    margin: 20px auto;
+    /*overflow: hidden;*/
+    background-color: red;
+    color: black;
+}
+
+.image {
+    float: left;
+    width: 40%;
+    box-sizing: border-box;
+    padding-left: 20px;
+}
+
+.text {
+    background-color: #9ED3CC;
+    float: left;
+    width: 60%;
+    box-sizing: border-box;
+    padding: 36px;
+    border-radius: 4px;
+
+}
+.qwe{
+    padding-top: 40px;
+    text-align: center;
+
+}
+
+.container2 {
+    max-width: 100%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 25%;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    text-align: center;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    height: auto;
+
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: darkred;
+    color: white;
+    border: none;
+
+    cursor: pointer;
+}
+
+
